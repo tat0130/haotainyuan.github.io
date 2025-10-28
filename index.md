@@ -23,8 +23,8 @@ I am a postgraduate student studying Robotics at the University of Manchester. I
 
 ## Publications & Working Papers
 
-- [Jun.2022] Rongbin Li, Mao Chen, Shaojun Zhang, Jilei Xu, **Haotian Yuan**, Peixu Yang, Fengqin Liu, "Mechanism and Control of Fusion and Agglomeration in Indirectly Heated Silicothermic Reduction"
-- [Sept.2023] **Haotian Yuan**, "Drowning recognition of indoor swimmers based on ST-GCN and key point detection"
+- [Jun.2022] LI Rong-bin,CHEN Mao,ZHANG Shao-jun,XU Ji-lei,**Haotian Yuan**,YANG Pei-xu,LIU Feng-qin. Mechanism and Control of Fusion and Agglomeration in Indirectly Heated Silicothermic Reduction[J].Nonferrous Metals (Extractive Metallurgy),2022(6):30-36.
+- [Sept.2023] **Haotian Yuan**, "Drowning recognition of indoor swimmers based on ST-GCN and key point detection" undergraduate thesis
 
 ## Technical Skills
 
