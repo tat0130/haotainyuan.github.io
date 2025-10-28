@@ -13,13 +13,13 @@ I am a postgraduate student studying Robotics at the University of Manchester. I
 - **Computer Vision**
 - **Machine Learning**
 
-## Research Experience
-
-{% include_relative _includes/publications.md %}
-
 ## Professional Projects
 
 {% include_relative _includes/services.md %}
+
+## Research Experience
+
+{% include_relative _includes/publications.md %}
 
 ## Publications & Working Papers
 
