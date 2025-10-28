@@ -23,7 +23,7 @@ I am a postgraduate student studying Robotics at the University of Manchester. I
 
 ## Publications & Working Papers
 
-- [Jun.2022] LI Rong-bin,CHEN Mao,ZHANG Shao-jun,XU Ji-lei,**Haotian Yuan**,YANG Pei-xu,LIU Feng-qin. Mechanism and Control of Fusion and Agglomeration in Indirectly Heated Silicothermic Reduction[J].Nonferrous Metals (Extractive Metallurgy),2022(6):30-36.
+- [Jun.2022] Haotian Yuan (Co-First Author), 2022, “Mechanism and Control of Fusion and Agglomeration in Indirectly Heated Silicothermic Reduction” accepted by The Chinese Journal of Nonferrous Metals, Issue6, (ISSN 1004-0609), Chinese Science Publishing Press, pages: 30-36. DOI: 10.3969/j.issn.1007-7545.2022.06.006
 - [Sept.2023] **Haotian Yuan**, "Drowning recognition of indoor swimmers based on ST-GCN and key point detection" undergraduate thesis
 
 ## Technical Skills
