@@ -1,22 +1,18 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+  - title: "Integrated Garbage Bin for Identification and Screening Based on SSD Algorithm"
+    authors: Xudong Liu, Zhenwei Yang, Wanting Cao, <strong>Haotian Yuan</strong>, Maolin Xie, Huiqing Cheng, YIzhen Lv, Zhuolin Han
+    conference_short: Deep Learning
+    conference: Users can deposit trash, and the smart trash bin can automatically identify and categorize the waste, then transport it to the corresponding bins via a conveyor belt.
+    pdf: ./assets/files/lj.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/lj.jpg
+    notes: Technical Lead
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+  - title: "Drowning Detection of Indoor Swimmers Based on ST-GCN and Keypoint Detection"
+    authors: Haotian Yuan
+    conference_short: Object Detection
+    conference: By utilizing the improved algorithm PP-YOLO (derived from YOLOv3) for object detection and training a behavior recognition model based on ST-GCN, drowning detection of swimmers in indoor swimming pools can be achieved.
+    pdf: ./assets/files/bs.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/bs.jpg
