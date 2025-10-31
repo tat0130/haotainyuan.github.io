@@ -5,7 +5,7 @@ main:
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: ./assets/files/te.pdf
     code: https://github.com/tat0130/te_detect
-    image: ./assets/img/te.gif
+    image: ./assets/img/tee.gif
     notes: Course Project
 
   - title: "Robotic Systems for Sustainable Development"
