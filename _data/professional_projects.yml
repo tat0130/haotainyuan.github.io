@@ -5,7 +5,7 @@ main:
     conference_short: Deep Learning
     conference: Users can deposit trash, and the smart trash bin can automatically identify and categorize the waste, then transport it to the corresponding bins via a conveyor belt.
     pdf: ./assets/files/lj.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/tat0130/Integrated-Garbage
     image: ./assets/img/lj.jpg
     notes: Technical Lead
 
@@ -14,5 +14,4 @@ main:
     conference_short: Object Detection
     conference: By utilizing the improved algorithm PP-YOLO (derived from YOLOv3) for object detection and training a behavior recognition model based on ST-GCN, drowning detection of swimmers in indoor swimming pools can be achieved.
     pdf: ./assets/files/bs.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     image: ./assets/img/bs.jpg
