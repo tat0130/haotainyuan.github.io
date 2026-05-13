@@ -14,3 +14,12 @@ main:
     code: https://www.dropbox.com/scl/fi/2vsvctw4n74yje0dplb2d/3.mp4?rlkey=5ki5rif0lo2rcl7zxmjk5jogp&st=cnru4obv&dl=0
     notes: Course Project
     image: ./assets/img/rs.gif
+    
+  - title: "Characterisation of the SLAMTEC RPLIDAR A2M12 Lidar Unit"
+    title_link: https://github.com/tat0130/Characterisation-of-the-SLAMTEC-RPLIDAR-A2M12-Lidar-Unit
+    authors: Haotian Yuan
+    conference: Characterise the SLAMTEC RPLIDAR A2M12 lidar unit, in the context of the Leo Rover.
+    code: https://github.com/tat0130/Characterisation-of-the-SLAMTEC-RPLIDAR-A2M12-Lidar-Unit
+    mp4: https://github.com/tat0130/Characterisation-of-the-SLAMTEC-RPLIDAR-A2M12-Lidar-Unit
+    notes: Course Project
+    image: ./assets/img/rplidar.gif
