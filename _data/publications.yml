@@ -23,3 +23,11 @@ main:
     mp4: https://github.com/tat0130/Characterisation-of-the-SLAMTEC-RPLIDAR-A2M12-Lidar-Unit
     notes: Course Project
     image: ./assets/img/rplidar.gif
+    
+  - title: "Revisiting Classical and Deep Learning Methods for Image Classification"
+    title_link: https://github.com/tat0130/Revisiting-Classical-and-Deep-Learning-Methods-for-Image-Classification
+    authors: Haotian Yuan
+    conference: Comparative study of classical and deep learning methods for image classification on CIFAR-100 and STL-10. (Press Code to see the report)
+    pdf: https://github.com/tat0130/Revisiting-Classical-and-Deep-Learning-Methods-for-Image-Classification
+    notes: Course Project
+    image: ./assets/img/five_images_5s.gif
