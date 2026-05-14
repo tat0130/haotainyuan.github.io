@@ -596,32 +596,54 @@ footer {
   font-family: monospace;
 }
 
-/* Force dark theme permanently */
+/* Force dark theme permanently - readable version */
 body {
   background-color: #20212b !important;
   color: #dadbdf !important;
 }
 
-autocolor {
+.wrapper, section, header, footer {
+  background-color: transparent !important;
+}
+
+/* Main text */
+p, li, ul, ol, table, dl, td, th, strong, em, span {
   color: #dadbdf !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: rgb(62, 183, 240) !important;
+/* Headings and links */
+h1, h2, h3, h4, h5, h6,
+a, a:hover, a:focus {
+  color: #3eb7f0 !important;
 }
 
-a {
-  color: rgb(62, 183, 240);
+autocolor, email, position {
+  color: #dadbdf !important;
 }
 
+/* Publication / project title link */
+.title a {
+  color: #3eb7f0 !important;
+}
+
+/* Buttons like PDF / Code / Video */
+.btn, a.btn {
+  color: #f2f4f8 !important;
+  border: 1px solid #9aa4b2 !important;
+  background-color: rgba(255, 255, 255, 0.06) !important;
+}
+
+.btn:hover, a.btn:hover {
+  color: #ffffff !important;
+  border-color: #3eb7f0 !important;
+  background-color: rgba(62, 183, 240, 0.18) !important;
+}
+
+/* Keep icons visible */
 .social-icons a {
   color: #3eb7f0 !important;
 }
 
-lightonly {
-  visibility: hidden !important;
-}
-
-darkonly {
-  visibility: visible !important;
-}
+/* Force dark-only elements */
+lightonly { visibility: hidden !important; }
+darkonly { visibility: visible !important; }
