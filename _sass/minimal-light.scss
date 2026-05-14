@@ -595,3 +595,33 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+/* Force dark theme permanently */
+body {
+  background-color: #20212b !important;
+  color: #dadbdf !important;
+}
+
+autocolor {
+  color: #dadbdf !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(62, 183, 240) !important;
+}
+
+a {
+  color: rgb(62, 183, 240);
+}
+
+.social-icons a {
+  color: #3eb7f0 !important;
+}
+
+lightonly {
+  visibility: hidden !important;
+}
+
+darkonly {
+  visibility: visible !important;
+}
