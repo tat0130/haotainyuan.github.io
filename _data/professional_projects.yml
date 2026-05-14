@@ -25,6 +25,7 @@ main:
     video: https://www.bilibili.com/video/BV1fA5D6VEBS/?spm_id_from=333.1387.list.card_archive.click&vd_source=427e211017dcf64314dfcf0dc03112fa
     image: ./assets/img/combined_15s.gif
     notes: Group project-Responsible for exploration and mapping
+    title_link: https://github.com/MJF2003/RSDPTeam10/tree/HTY-mapping-explore_automatically
 
   - title: "Autonomous Mobile Robots"
     authors: Haotian Yuan
@@ -34,3 +35,4 @@ main:
     video: https://www.bilibili.com/video/BV1Km5S6sE95/?spm_id_from=333.1387.homepage.video_card.click&vd_source=427e211017dcf64314dfcf0dc03112fa
     image: ./assets/img/093a9cb79d63d616730b50203c7a8fde_under20mb.gif
     notes: Group project
+    title_link:https://github.com/tat0130/AMR
