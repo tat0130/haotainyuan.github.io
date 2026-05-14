@@ -16,3 +16,12 @@ main:
     pdf: ./assets/files/bs.pdf
     image: ./assets/img/ns.gif
     notes: Dissertation
+
+  - title: "Robotic Systems Design Project"
+    authors: Haotian Yuan
+    conference_short: Robotics
+    conference: The primary objective of this project is to design and verify a mobile manipulator system—comprising a Leo Rover, manipulator, depth camera and LiDAR—capable of operating autonomously in an unknown environment.
+    code: https://github.com/MJF2003/RSDPTeam10/tree/HTY-mapping-explore_automatically
+    video: https://www.bilibili.com/video/BV1fA5D6VEBS/?spm_id_from=333.1387.list.card_archive.click&vd_source=427e211017dcf64314dfcf0dc03112fa
+    image: ./assets/img/combined_15s.gif
+    notes: Group project
