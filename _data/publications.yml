@@ -38,3 +38,4 @@ main:
     conference: Implement a path planning algorithm for a generalised robotic system
     code: https://github.com/tat0130/Astar-path-planner
     image: ./assets/img/cw2_trim.gif
+    notes: Course Project
