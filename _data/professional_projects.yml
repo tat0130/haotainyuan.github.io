@@ -7,7 +7,7 @@ main:
     pdf: ./assets/files/lj.pdf
     code: https://github.com/tat0130/Integrated-Garbage
     image: ./assets/img/lj.jpg
-    notes: Technical Lead
+    notes: Technical Lead-Responsible for recognition and classification algorithms.
 
   - title: "Drowning Detection of Indoor Swimmers Based on ST-GCN and Keypoint Detection"
     authors: Haotian Yuan
@@ -24,7 +24,7 @@ main:
     code: https://github.com/MJF2003/RSDPTeam10/tree/HTY-mapping-explore_automatically
     video: https://www.bilibili.com/video/BV1fA5D6VEBS/?spm_id_from=333.1387.list.card_archive.click&vd_source=427e211017dcf64314dfcf0dc03112fa
     image: ./assets/img/combined_15s.gif
-    notes: Group project
+    notes: Group project-Responsible for exploration and mapping
 
   - title: "Autonomous Mobile Robots"
     authors: Haotian Yuan
