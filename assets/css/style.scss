@@ -2,3 +2,51 @@
 ---
 
 @import "minimal-light";
+/* ===== Force dark theme permanently (final override) ===== */
+html, body {
+  background: #20212b !important;
+  color: #dadbdf !important;
+}
+
+.wrapper, section, header, footer {
+  background: transparent !important;
+}
+
+/* text */
+p, li, ul, ol, table, dl, td, th, span, strong, em {
+  color: #dadbdf !important;
+}
+
+/* headings and links */
+h1, h2, h3, h4, h5, h6,
+a, a:hover, a:focus,
+.title a {
+  color: #3eb7f0 !important;
+}
+
+/* custom tags used by this theme */
+autocolor, email, position {
+  color: #dadbdf !important;
+}
+
+/* buttons: PDF / Code / Video */
+.btn, a.btn {
+  color: #f3f6fb !important;
+  border: 1px solid #9aa4b2 !important;
+  background: rgba(255,255,255,0.06) !important;
+}
+
+.btn:hover, a.btn:hover {
+  color: #ffffff !important;
+  border-color: #3eb7f0 !important;
+  background: rgba(62,183,240,0.18) !important;
+}
+
+/* social icons */
+.social-icons a {
+  color: #3eb7f0 !important;
+}
+
+/* light/dark helper tags */
+lightonly { visibility: hidden !important; }
+darkonly { visibility: visible !important; }
