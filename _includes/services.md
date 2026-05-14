@@ -16,7 +16,17 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      {% if link.title_link %}
+        <div class="title"><a href="{{ link.title_link }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a></div>
+      {% elsif link.code %}
+        <div class="title"><a href="{{ link.code }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a></div>
+      {% elsif link.page %}
+        <div class="title"><a href="{{ link.page }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a></div>
+      {% elsif link.pdf %}
+        <div class="title"><a href="{{ link.pdf }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a></div>
+      {% else %}
+        <div class="title">{{ link.title }}</div>
+      {% endif %}
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
